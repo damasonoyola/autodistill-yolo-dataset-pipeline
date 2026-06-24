@@ -1,0 +1,5 @@
+.env
+
+data/all/
+data/labeled/
+data/preview/
